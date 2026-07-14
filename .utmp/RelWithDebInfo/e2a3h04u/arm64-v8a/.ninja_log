@@ -1,0 +1,10 @@
+# ninja log v5
+472	5033	8057348090600000	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	f8fcca70638bcf6f
+832	5085	8057348091700000	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	869195db1e283907
+293	5140	8057348086800000	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	63e959029bfb8039
+1019	5181	8057348091900000	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	26a7d536f58a9d8f
+115	5370	8057348084900000	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	31453897bc109d5f
+1203	5786	8057348092100000	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	b380ab7e337a972d
+648	5804	8057348091600000	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	e6a29e7e9bf828f5
+1	6011	8057348083100000	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	e8b73648cfa9198
+6011	6716	8057348143300000	E:/All-Project/P-002-SolarSystemSimulation/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/e2a3h04u/obj/arm64-v8a/libgame.so	cc4f58ce94452ef3

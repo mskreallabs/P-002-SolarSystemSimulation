@@ -1,0 +1,5 @@
+E:/All-Project/P-002-SolarSystemSimulation/.utmp/RelWithDebInfo/e2a3h04u/arm64-v8a/CMakeFiles/edit_cache.dir
+E:/All-Project/P-002-SolarSystemSimulation/.utmp/RelWithDebInfo/e2a3h04u/arm64-v8a/CMakeFiles/rebuild_cache.dir
+E:/All-Project/P-002-SolarSystemSimulation/.utmp/RelWithDebInfo/e2a3h04u/arm64-v8a/GameActivity/CMakeFiles/game.dir
+E:/All-Project/P-002-SolarSystemSimulation/.utmp/RelWithDebInfo/e2a3h04u/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+E:/All-Project/P-002-SolarSystemSimulation/.utmp/RelWithDebInfo/e2a3h04u/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
