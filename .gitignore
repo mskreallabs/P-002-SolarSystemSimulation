@@ -1,69 +1,81 @@
-# Ignore everything
-*
+# =====================================================
+# Unity Generated Folders
+# =====================================================
 
-# Keep this file
-!.gitignore
-
-##############################
-# Unity Required
-##############################
-
-# Packages
-!Packages/
-!Packages/**
-
-# Project Settings
-!ProjectSettings/
-!ProjectSettings/**
-
-# README
-!README.md
-!Readme
-!Readme.md
-
-##############################
-# Assets
-##############################
-
-# Allow Assets folder
-!Assets/
-Assets/*
-
-# Scripts
-!Assets/Scripts/
-!Assets/Scripts/**
-!Assets/Scripts.meta
-
-# Prefabs
-!Assets/Prefabs/
-!Assets/Prefabs/**
-!Assets/Prefabs.meta
-
-# Keep Assets meta
-!Assets.meta
-
-##############################
-# Ignore Unity generated folders
-##############################
-
-Library/
-Logs/
-Obj/
-Temp/
-Build/
-Builds/
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
 UserSettings/
-MemoryCaptures/
+Recordings/
 
-##############################
-# Ignore everything else inside Assets
-##############################
+# =====================================================
+# Visual Studio / Rider
+# =====================================================
 
-Assets/Scenes/
-Assets/Icons/
-Assets/Materials/
-Assets/Settings/
-Assets/Sounds/
-Assets/Textures/
-Assets/TextMesh Pro/
-Assets/InputSystem_Actions*
+.vs/
+.idea/
+.vscode/
+
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =====================================================
+# Unity Cache
+# =====================================================
+
+/Assets/AssetStoreTools*
+
+# =====================================================
+# Auto Generated Packages
+# =====================================================
+
+Packages/packages-lock.json
+
+# =====================================================
+# OS Files
+# =====================================================
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# =====================================================
+# Crash Reports
+# =====================================================
+
+sysinfo.txt
+
+# =====================================================
+# Ignore Screenshot Output
+# =====================================================
+
+Screenshots/
+
+# =====================================================
+# Ignore Build Outputs
+# =====================================================
+
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.x86
+*.x86_64
+*.zip
